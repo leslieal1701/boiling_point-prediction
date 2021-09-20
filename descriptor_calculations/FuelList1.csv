@@ -1,0 +1,103 @@
+ID,Fuel,Boiling Point (F),Boiling Point (K)
+1,"1,3,5-trimethylbenzene",328.5,437.8722222
+2,1-Butene,21,267.0388889
+3,1-Pentene,85.8,303.0388889
+4,"2,3-Dimethylpentane",194,363.15
+5,"2,5-dimethylhexane",228.4,382.2611111
+6,"2,6,10-trimethyldodecane",480.38,522.25
+7,2-Butene,39.2,277.15
+8,2-Hexanone,262.4,401.15
+9,2-methylheptane,240.8,389.15
+10,2-Pentanone,213.8,374.15
+11,3-methylheptane,248,393.15
+12,Acetaldehyde,68.36,293.35
+13,Acetic acid,244.4,391.15
+14,Acetone,132.8,329.15
+15,Acetylene,-119.2,189.15
+16,Acrolein,127.4,326.15
+17,Acrylonitrile,170.6,350.15
+18,Allyl alcohol,206.6,370.15
+19,Aniline,363.4,457.2611111
+20,Benzene,176.2,353.2611111
+21,Butane,30.2,272.15
+22,Butyl acetate,258.8,399.15
+23,Butyl chloride,173.3,351.65
+24,Chlorobenzene,269.6,405.15
+25,Cyclohexane,177.3,353.8722222
+26,cyclopentane,120.6,322.3722222
+27,Cyclopropane,-27.15,240.2888889
+28,decalin,374,463.15
+29,Decane,345.4,447.2611111
+30,Diethyl amine,131.9,328.65
+31,Diethyl ether,94.28,307.75
+32,Dimethyl amine,45.3,280.5388889
+33,dimethyl ether,-11.2,249.15
+34,Dioxane,214,374.2611111
+35,Diisopropyl ether,156,342.0388889
+36,Ethane,-127.5,184.5388889
+37,Ethyl acetate,171,350.3722222
+38,Ethyl alcohol,-173.4,159.0388889
+39,Ethyl amine,61.9,289.7611111
+40,Ethyl bromide,101.1,311.5388889
+41,Ethyl chloride,54.1,285.4277778
+42,Ethyl formate,129.6,327.3722222
+43,ethylbenzene,277.2,409.3722222
+44,ethylcyclohexane,264.9,402.5388889
+45,Ethylene,-154.7,169.4277778
+46,Ethylene dichloride,182.3,356.65
+47,Formaldehyde,-2.2,254.15
+48,Furfural,323.1,434.8722222
+49,Hexane,156.2,342.15
+50,Isoamyl alcohol,270,405.3722222
+51,Isobutane,10.8,261.3722222
+52,Isobutene,19.6,266.2611111
+53,Isocetane,464.1,513.2055556
+54,Isododecane,356,453.15
+55,Isooctane,210.2,372.15
+56,Isopentane,82.04,300.95
+57,Isopentanol,270,405.3722222
+58,Isopentyl acetate,287.6,415.15
+59,Isopropyl acetate,192.2,362.15
+60,Isopropyl alcohol,180.5,355.65
+61,Methacrolein,156.2,342.15
+62,Methyl acetate,134.4,330.0388889
+63,Methyl alcohol,148.3,337.7611111
+64,Methyl amine,20.3,266.65
+65,Methyl bromide,38.4,276.7055556
+66,Methyl chloride,-11.6,248.9277778
+67,Methyl decanoate,435.2,497.15
+68,Methyl formate,89.24,304.95
+69,Methyl methacrylate,213.8,374.15
+70,Methylcyclohexane,213.8,374.15
+71,Methylethyl ketone,175.3,352.7611111
+72,m-xylene,282.4,412.2611111
+73,n-Butyl alcohol,243.9,390.8722222
+74,n-decane,345.4,447.2611111
+75,n-dodecane,421.2,489.3722222
+76,Neopentane,49.1,282.65
+77,n-heptane,209.2,371.5944444
+78,n-hexadecane,549,560.3722222
+79,n-octane,258.1,398.7611111
+80,Nonane,303.8,424.15
+81,n-Propanol,207,370.3722222
+82,n-tetradecane,488.7,526.8722222
+83,o-xylene,291.2,417.15
+84,Paraldehyde,255.2,397.15
+85,Pentane,97,309.2611111
+86,Phenol,359.1,454.8722222
+87,Propane,-43.6,231.15
+88,Propyl acetate,215.6,375.15
+89,Propyl amine,118,320.9277778
+90,Propyl chloride,117,320.3722222
+91,Propylene,-53.9,225.4277778
+92,Propylene dichloride,204.8,369.15
+93,Propylene oxide,93.61,307.3777778
+94,p-xylene,281,411.4833333
+95,sec-Butyl chloride,158,343.15
+96,Styrene,293,418.15
+97,tetralin,406.4,481.15
+98,Toluene,231.1,383.7611111
+99,Triethyl amine,192.7,362.4277778
+100,Trimethyl amine,37.22,276.05
+101,Vinyl chloride,7.88,259.75
+102,alpha-Methylnaphthalene,471.9,517.5388889
